@@ -28,6 +28,6 @@ Bem-vindo ao **UIFT** (Universidade de Informação Tecnológica)! Este projeto 
 🔗 [Veja o projeto em funcionamento!](https://github.com/moisesvinicius/project-bootstrap)  
 
 ### Visualização do Projeto:
-![UIFT Projeto](https://via.placeholder.com/1200x600.png?text=UIFT+-+Universidade+De+Informação+Tecnológica)
+![UIFT Projeto](https://github.com/moisesvinicius/project-bootstrap/blob/main/projeto-front-end/Captura%20de%20tela_20-11-2024_12570_.jpeg)
 
 Este projeto é uma ótima maneira de aprender como usar **Bootstrap** para criar sites modernos e responsivos. Junte-se a mim e explore este exemplo de como a tecnologia pode tornar a educação ainda mais acessível e envolvente! 🌟🚀
